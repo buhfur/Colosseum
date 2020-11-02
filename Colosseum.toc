@@ -1,23 +1,28 @@
 ﻿## Interface: 11305
-## Author: Ryan "morlako-herod" McVicker 
-## Version: v1.0.0
+## Author: Ryan "morlako-herod" McVicker
+## Version: v1.5.6
 ## SavedVariables: AtlasLootClassicDB
 ## OptionalDeps: Ace3, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets, LibDBIcon-1.0, LibDataBroker-1.1, LibClassicItemSets-1.0
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 
 ## Title: Colosseum 
-## Notes: Addon for making the arena junkies guide more accessible 
+## Notes: Allows people to acess the old Arena Junkies guides without having to leave the game
 
 ## X-License: GPL v2
 ## X-Localizations: enUS, deDE, frFR, esES, koKR, zhCN, zhTW, esMX, ptBR, ruRU, itIT
 
 embeds.xml
 
+Init.lua
+Constants.lua
+db.lua
 
+Locales\Locales.xml
 
 AtlasLoot.xml
 AtlasLoot.lua
+Loader.lua
 
 Core\SlashCommands.lua
 Core\ClickHandler.lua
