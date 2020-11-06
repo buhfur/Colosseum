@@ -1,6 +1,8 @@
 ## Interface: 11305
 ## Title :  Colosseum
 ## Notes: Addon that helps people use the arena junkies addon without having to leave the game
-## Author: Ryan "morlako-herod" McVicker
+## Author: |cff02bf02Morlako-Herod|r 
+
 Colosseum.xml
 Colosseum.lua
+embeds.xml
